@@ -34,6 +34,9 @@ It supports both **local folders** and **FTP servers** (including game server ho
 - FTP passwords are stored locally on your computer only.
 - The program does not send any data anywhere except to the FTP servers you configure.
 
+# Images
+
+
 ## Version
 
 1.0
