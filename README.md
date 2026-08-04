@@ -44,4 +44,4 @@ It supports both **local folders** and **FTP servers** (including game server ho
 
 ## Version
 
-1.0
+1.1
