@@ -36,6 +36,11 @@ It supports both **local folders** and **FTP servers** (including game server ho
 
 # Images
 
+![Select File](clusterxferfiles.png)
+
+![Select Destination](clusterxferdestination.png)
+
+![Transfered File](clusterxfertransfered.png)
 
 ## Version
 
