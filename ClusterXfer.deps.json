@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ClusterXfer/1.0.0": {
+        "dependencies": {
+          "FluentFTP": "54.2.0"
+        },
+        "runtime": {
+          "ClusterXfer.dll": {}
+        }
+      },
+      "FluentFTP/54.2.0": {
+        "runtime": {
+          "lib/net8.0/FluentFTP.dll": {
+            "assemblyVersion": "54.2.0.0",
+            "fileVersion": "54.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClusterXfer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentFTP/54.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-n+OyaqU80gnOltXo2xBPZklAqbtxJAfl2GfblOIe5OCAk4jr/3zYW9Jf1fG6eR/USZq4AKWQcUMmKE9neSk8og==",
+      "path": "fluentftp/54.2.0",
+      "hashPath": "fluentftp.54.2.0.nupkg.sha512"
+    }
+  }
+}
