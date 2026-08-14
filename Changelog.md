@@ -2,6 +2,12 @@
 
 All notable changes to **ClusterXfer Manager** will be documented in this file.
 
+## [1.2] - 2026-08-13
+
+### Added
+- Code to catch more errors
+- Discord link for faster support
+
 ## [1.1] - 2026-08-04
 
 ### Added
