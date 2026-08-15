@@ -4,6 +4,13 @@
 
 It supports both **local folders** and **FTP servers** (including game server hosts such as Nitrado).
 
+## Safety / Virus Scan
+
+This program is clean according to VirusTotal:
+
+**[View VirusTotal Report](https://www.virustotal.com/gui/file/322513948e863cd39d00f61536e685de163026d0defd604a4d2096d7f82242b4)**
+
+Scanned by 70+ antivirus engines.
 ## Features
 
 - Add files from your computer or from an FTP server
