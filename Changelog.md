@@ -2,6 +2,21 @@
 
 All notable changes to **ClusterXfer Manager** will be documented in this file.
 
+## [1.3] - 2026-09-06
+
+### Added
+- File groups with custom names (right-click → Group selected files…)
+- Collapsible groups and folders in the file list
+- Files inside a group are split by parent folder (for example MagaShop and AwesomeAdminTools)
+- Click a group or folder header to expand or collapse it
+- Selecting a group or folder header sends all files in that group or folder
+- Rename destination display names without changing the real folder or FTP path
+- Updated Help menu with grouping and collapse instructions
+
+### Improved
+- File list starts collapsed so individual files are hidden until expanded
+- Clearer file list layout for large sets of files
+
 ## [1.2] - 2026-08-13
 
 ### Added
