@@ -8,7 +8,7 @@ It supports both **local folders** and **FTP servers** (including game server ho
 
 This program is clean according to VirusTotal:
 
-**[View VirusTotal Report](https://www.virustotal.com/gui/file/322513948e863cd39d00f61536e685de163026d0defd604a4d2096d7f82242b4)**
+**[View VirusTotal Report](https://www.virustotal.com/gui/file/c6ae12facfbb6ebcf0791dc333df3964008c035288084183ec4d9f3245e225f8)**
 
 Scanned by 70+ antivirus engines.
 
